@@ -9,6 +9,8 @@
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I'm an Accountant Graduate.
 
+""I seek refuge through cooperating with others and expand innovational ideas within a team, listening to unique and differential plans""
+
 <!--
 **allilahsa/allilahsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
