@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on product management for digital apps (still doing some bootcamps)
 - 🌱 I’m currently learning :
+
+
 ![box-icon-android](https://user-images.githubusercontent.com/64634447/156865508-1b2a143c-3feb-4cce-a84a-1f3e6ad2b389.jpg)
 ![box-icon-bootstrap](https://user-images.githubusercontent.com/64634447/156865509-3c99beac-c002-4a90-953d-a840ee560c61.jpg)
 ![box-icon-codeigniter](https://user-images.githubusercontent.com/64634447/156865510-28b70823-6c8b-40fc-96ee-eb37f0815fac.jpg)
